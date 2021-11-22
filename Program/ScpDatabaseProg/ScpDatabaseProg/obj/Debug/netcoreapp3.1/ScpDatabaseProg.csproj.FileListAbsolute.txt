@@ -1,0 +1,13 @@
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\bin\Debug\netcoreapp3.1\ScpDatabaseProg.exe
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\bin\Debug\netcoreapp3.1\ScpDatabaseProg.deps.json
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\bin\Debug\netcoreapp3.1\ScpDatabaseProg.runtimeconfig.json
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\bin\Debug\netcoreapp3.1\ScpDatabaseProg.runtimeconfig.dev.json
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\bin\Debug\netcoreapp3.1\ScpDatabaseProg.dll
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\bin\Debug\netcoreapp3.1\ScpDatabaseProg.pdb
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\obj\Debug\netcoreapp3.1\ScpDatabaseProg.csprojAssemblyReference.cache
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\obj\Debug\netcoreapp3.1\ScpDatabaseProg.AssemblyInfoInputs.cache
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\obj\Debug\netcoreapp3.1\ScpDatabaseProg.AssemblyInfo.cs
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\obj\Debug\netcoreapp3.1\ScpDatabaseProg.csproj.CoreCompileInputs.cache
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\obj\Debug\netcoreapp3.1\ScpDatabaseProg.dll
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\obj\Debug\netcoreapp3.1\ScpDatabaseProg.pdb
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Scp Database\ScpDatabaseProg\Program\ScpDatabaseProg\ScpDatabaseProg\obj\Debug\netcoreapp3.1\ScpDatabaseProg.genruntimeconfig.cache
